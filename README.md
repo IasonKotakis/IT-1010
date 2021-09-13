@@ -1,2 +1,2 @@
-# IT-1010
-- Information and Organizations
+# IT 1010 - Information and Organizations
+
